@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+static int var = 5;
+
+int main() {
+    printf("%d", var--);
+    
+    if (var) {
+        main();
+    }
+    
+    return 0;
+}

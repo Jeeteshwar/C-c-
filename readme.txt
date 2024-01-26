@@ -1,0 +1,1 @@
+all questions of sloved during the learning of c/
